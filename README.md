@@ -1,3 +1,7 @@
+# React_Expense_Tracker
+
+First React web application - Expense Tracker
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
