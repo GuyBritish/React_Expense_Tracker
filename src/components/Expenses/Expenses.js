@@ -9,7 +9,7 @@ import "./Expenses.css";
 function Expenses(props) {
 	const yearFilter = (expenses, year) => {
 		return expenses.filter((expense) => {
-			return expense.date.getFullYear() == year;
+			return expense.date.getFullYear().toString() === year;
 		});
 	};
 
