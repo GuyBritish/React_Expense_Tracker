@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./CharBar.css";
+import "./ChartBar.css";
 
 function ChartBar(props) {
 	let fillHeight = "0%";
